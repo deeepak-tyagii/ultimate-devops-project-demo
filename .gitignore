@@ -1,0 +1,3 @@
+infra/**/*.tf
+infra/**/*.tfvars
+infra/**/*.hcl
