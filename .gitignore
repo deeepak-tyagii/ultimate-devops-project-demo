@@ -1,3 +1,4 @@
 infra/.terraform
 infra/.terraform/**
 infra/.terraform.lock.hcl
+infra/.DS_Store
